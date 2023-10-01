@@ -6,14 +6,15 @@
     <description>Recent content on Hugo Profile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Sep 2023 19:53:33 +0530</lastBuildDate><atom:link href="https://ashwinpraveengo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ashwinpraveengo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bioethics SAARC Nodal Centre at Amrita Institute of Medical Sciences, Kochi</title>
+      <title>Cretaing a website</title>
       <link>https://ashwinpraveengo.github.io/blogs/math/</link>
-      <pubDate>Mon, 25 Sep 2023 19:53:33 +0530</pubDate>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://ashwinpraveengo.github.io/blogs/math/</guid>
-      <description>The Bioethics SAARC Nodal Centre at Amrita Institute of Medical Sciences, Kochi is excited to announce the celebration of World Bioethics Day on the 6th and 7th of October 2023. This year’s theme, ‘Protecting Future Generations,’ draws inspiration from Article 16 of the UNESCO’s Universal Declaration on Bioethics and Human Rights (UDBHR) 2005. The focus is on creating a multidimensional environment that ensures the physical, mental, psychological, social, and moral health of future generations.</description>
+      <description>Creating a website can be a thrilling yet daunting task. As someone who wanted to establish an online presence, I embarked on a journey to build my own website using Hugo, a popular open-source static site generator. In this blog post, I will share my approach, experiences, and the lessons I learned throughout the process.
+1. Understanding the Basics Before diving into Hugo, I took some time to understand the fundamental concepts of static site generators and how they differ from dynamic websites.</description>
     </item>
     
     <item>
@@ -23,16 +24,6 @@
       
       <guid>https://ashwinpraveengo.github.io/gallery/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Midterm Skull Base Endoscopy Workshop</title>
-      <link>https://ashwinpraveengo.github.io/blogs/markdown-syntax/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ashwinpraveengo.github.io/blogs/markdown-syntax/</guid>
-      <description>About Amrita Centre for Neuroendoscopy, Kochi, is thrilled to announce a groundbreaking national event set to redefine the landscape of neuroendoscopy. The “Skull Base Endoscopy Cadaver Workshop and Live Spine Endoscopy Surgery,” endorsed by the prestigious Neuroendoscopy Society of India (NESI), is scheduled to take place on September 30 and October 1, 2023, at Amrita Institute of Medical Sciences in Kochi.
-This high-profile academic gathering is designed to spotlight the most recent advancements in the field of brain and spine neuroendoscopy, uniting delegates and esteemed speakers from across India.</description>
     </item>
     
   </channel>
